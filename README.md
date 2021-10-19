@@ -19,8 +19,8 @@ React Native: [Setting up the development environment](https://reactnative.dev/d
 - Listing returned categories with API.
 - Listing the dishes belonging to the clicked category.
 - Listing the details of the clicked dish.
-- Do not show a loading screen until a response is returned from the API.
-- Do not show an error screen if a negative response is returned from the API.
+- Showing loading screen until a response is returned from the API.
+- Showing an error screen if a negative response is returned from the API.
 
 ## API
 
