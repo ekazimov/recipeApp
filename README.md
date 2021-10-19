@@ -4,7 +4,7 @@
 
 ## Setup
 
-React Native -> https://reactnative.dev/docs/environment-setup
+React Native: [Setting up the development environment](https://reactnative.dev/docs/environment-setup)
 
 
 ## Tools
@@ -24,5 +24,5 @@ React Native -> https://reactnative.dev/docs/environment-setup
 
 ## API
 
-API used: TheMealDB
+Used API : [TheMealDB](https://www.themealdb.com/api.php)
 
